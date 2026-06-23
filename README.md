@@ -1,6 +1,6 @@
-# 💫 About Me:
-i am currently studing b tech computer science in Data Science  in college<br>i learned python , sql , java , jupyter notebook ,Mechine Learning, Excel  and i want to become a Data analysist <br>i have advanced communication skill in English as well as my mother tongue in Bengali .<br>i have some hobbies like sketching , reading story books in the genre  psychological , educational , detective and motivational.<br>i also  interest in artificial intellegence , deep learning , prompt engeenearing , generative Ai etc.<br>i do hardwork , helpfull and a good team worker , try to solve things logics
-
+# 🚀 Data is my playground — and I'm just getting started.
+I'm Debajyoti, a Data Science undergrad who lives at the intersection of code, curiosity, and creativity. I build with Python, SQL, Machine Learning & Jupyter — and I'm constantly pushing deeper into Generative AI, Deep Learning, and Prompt Engineering.
+Logic drives me. Problems excite me. And I never stop until the data tells its story. When I'm offline? Sketching or solving fictional murders in detective novels. 🎨🔍
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100094722531275) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_debo_117_?igsh=ejQ5aWp2NTR5cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/debajyoti-sardar-40617a3b4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/debajyotisardar753) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DebajyotiSard17)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debajyotisardar753@gmail.com) 
