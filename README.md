@@ -1,6 +1,13 @@
-# 🚀 Data is my playground — and I'm just getting started.
-I'm Debajyoti, a Data Science undergrad who lives at the intersection of code, curiosity, and creativity. I build with Python, SQL, Machine Learning & Jupyter — and I'm constantly pushing deeper into Generative AI, Deep Learning, and Prompt Engineering.
-Logic drives me. Problems excite me. And I never stop until the data tells its story. When I'm offline? Sketching or solving fictional murders in detective novels. 🎨🔍
+# 🙋 Hey there!
+I'm Debajyoti — a passionate and driven Data Science undergraduate who lives at the intersection of code, curiosity, and creativity. I believe data is more than just numbers — it's a powerful language that drives real-world decisions and meaningful change. My goal is to grow into a skilled Data Analyst who doesn't just analyze data, but tells compelling stories through it. I take pride in being a logical thinker, a dedicated team player, and a relentless problem solver.
+
+🎓 Currently pursuing B.Tech in Computer Science (Data Science), building a strong foundation in analytics and intelligent systems
+🛠️ I work with Python, SQL, Java, Machine Learning, Jupyter Notebook & Excel to turn raw data into actionable insights
+🤖 Deeply passionate about Generative AI, Deep Learning & Prompt Engineering — technologies I believe will redefine the future
+📊 Aspiring Data Analyst with a sharp eye for patterns, trends, and the stories hidden inside datasets
+🧠 A logic-first problem solver who loves breaking down complex challenges into clean, efficient solutions
+🎨 Off the screen — a sketch artist and an avid reader of detective fiction, psychology & motivational literature in both English & Bengali 📚
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100094722531275) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_debo_117_?igsh=ejQ5aWp2NTR5cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/debajyoti-sardar-40617a3b4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/debajyotisardar753) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DebajyotiSard17)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debajyotisardar753@gmail.com) 
