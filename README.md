@@ -19,9 +19,6 @@ I'm **Debajyoti** — a passionate and driven **Data Science undergraduate** who
 ![](https://streak-stats.demolab.com/?user=Debajyoti117&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Debajyoti117&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Debajyoti117&icon=9&color=6)](https://visitcount.itsvg.in)
 
