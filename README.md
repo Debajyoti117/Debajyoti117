@@ -1,4 +1,4 @@
-# 🙋 **Hey there!**
+# 🙋 **Hey there!**   
 
 I'm **Debajyoti** — a passionate and driven **Data Science undergraduate** who lives at the intersection of code, curiosity, and creativity. I believe data is more than just numbers — it's a powerful language that drives real-world decisions and meaningful change. My goal is to grow into a skilled **Data Analyst** who doesn't just analyze data, but tells compelling stories through it. I take pride in being a logical thinker, a dedicated team player, and a relentless problem solver.
 
